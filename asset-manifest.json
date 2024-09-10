@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mcq_exam/static/css/main.e6c13ad2.css",
+    "main.js": "/mcq_exam/static/js/main.6f7bf16d.js",
+    "static/js/453.6312c8e9.chunk.js": "/mcq_exam/static/js/453.6312c8e9.chunk.js",
+    "index.html": "/mcq_exam/index.html",
+    "main.e6c13ad2.css.map": "/mcq_exam/static/css/main.e6c13ad2.css.map",
+    "main.6f7bf16d.js.map": "/mcq_exam/static/js/main.6f7bf16d.js.map",
+    "453.6312c8e9.chunk.js.map": "/mcq_exam/static/js/453.6312c8e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6f7bf16d.js"
+  ]
+}
